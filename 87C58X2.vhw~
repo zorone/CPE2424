@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59aade9d58a1593108e93e44a722d97a6a3f37223678835a11e3eb87b3767aa0
-size 179
+# MCU 8051 IDE: Virtual HW configuration file
+# Project: 87C58X2
+
+LedDisplay {{4 0 0 0 5 0 1 0 6 0 2 0 7 0 3 0} {4 3 0 7 5 2 1 6 6 1 2 5 7 0 3 4} 230x175+1141+258 {} red 1 0}

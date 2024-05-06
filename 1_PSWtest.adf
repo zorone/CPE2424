@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01b5489d0128508435edf3bbeb3cd90f4996571fa8864e0ad5d869580fac8acf
-size 197
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 02/28/2024
+BD565DF9739B6F327E3B5993C29A50AF "1_PSWtest.asm" 
+0 3 0 116 255
+0 4 2 120 1
+0 6 4 56
+0 7 5 34

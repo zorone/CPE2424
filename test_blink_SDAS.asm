@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9361c96ca993c1a5ae245b606fdc816599cdb9f8e85484cdb33d7f720712cad5
-size 222
+.org 0x0090
+main:
+	cpl P3.2
+	acall delay
+	cpl P3.3
+	acall delay
+	cpl P3.4
+	acall delay
+	cpl P3.5
+	acall delay
+	nop
+	nop
+	nop
+	nop
+	sjmp main
+	
+delay:
+	mov r4, #0x00	
+	mov r3, #0x00	
+wait:
+	djnz r4, wait
+	djnz r3, wait
+	ret

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e9a327483872de681be74521d0e9b615ba763609bad90ec4d500c5ff7a612ec
-size 78
+# Watches definition file -- MCU 8051 IDE v1.4.9
+F800
+F801
+F802
+F803
+00A2
